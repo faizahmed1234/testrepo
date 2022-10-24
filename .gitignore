@@ -1,1 +1,11 @@
+#for all logs files
 mylogs.log
+
+#for ignoring log files in same directory
+/mylogs.log
+
+#for all file with extension .log
+*.log
+
+#for ignore a whole folder. 
+ignore/
